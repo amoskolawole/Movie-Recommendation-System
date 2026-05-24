@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 
 ## Description
-Creation of ML and NLP Movie Recommendation System using proper Feature Engineering, TF-IDF Vectorization and Cosine Similarity for detecting the similarities between different movies.
+Creation of ML and NLP Movie Recommendation System for recommending other related movies using proper Feature Engineering, TF-IDF Vectorization and Cosine Similarity for detecting the similarities between different movies.
 
 ## Objectives
 - Data Inspection to ensure good data preprocessing
